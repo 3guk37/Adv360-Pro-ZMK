@@ -1,0 +1,6 @@
+---
+include:
+  - board: adv360_left
+    snippets:
+      - studio
+  - board: adv360_right
