@@ -86,3 +86,4 @@
     };
   };
 };
+CONFIG_ZMK_STUDIO=y
